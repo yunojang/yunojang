@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ### 장윤호
-성장하는중
+성장하는 중
 
 ### Career
-- KRAFTON[JUNGLE] (Software Engineer) `2026.02~`
+- 크래프톤 Jungle(Software Engineer) `2026.02~`
 - 위즈코어 기술연구소 (Web-FrontEnd) `2021.11 ~ 2024.07`
 - 아이디어 콘서트 IT팀 (Web-FrontEnd) `2020.09 ~ 2020.11`
 
